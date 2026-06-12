@@ -16,8 +16,8 @@ Investigate basic connectivity and DNS issues using common network diagnostic to
 
 ### Ping Test
 
-![Ping Test](images/ping-tes![Uploading traceroute-test.png…]()
-t.png)
+![Ping Test](images/ping-tesUploading traceroute-test.png… t.png)
+
 
 Successful connectivity confirmed by receiving replies from the target host.
 
